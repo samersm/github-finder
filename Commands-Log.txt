@@ -1,2 +1,4 @@
 $ npx create-react-app .
 
+$ npm i -s axios
+
